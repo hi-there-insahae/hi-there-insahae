@@ -9,9 +9,9 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in Web Backend.
-  I am working on it based on Python DJango.
-  I enjoy learning new thing and trying that!
+  Hello I am a new developer specializing in Web Backend.<br>
+  I am working on it based on Python DJango.<br>
+  I enjoy learning new thing and trying that!<br>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
