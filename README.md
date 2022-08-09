@@ -2,12 +2,7 @@
 
 
 <div align=center> 
-  <p>
-  <a href="https://dahee0628.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:ekgml3219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ekgml3219@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%EB%8B%A4%ED%9D%AC-%EB%B0%95-68109b22a/" target="_blank"><img src="https://img.shields.io/badge/DaheePark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  
-</p>
+
 <p>
   Hello I am a new developer specializing in Web Backend.<br>
   I am working on it based on Python DJango.<br>
